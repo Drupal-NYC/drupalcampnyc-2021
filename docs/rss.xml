@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://2021.drupalcamp.nyc/">
+  <channel>
+    <title>DrupalCampNYC 2021 - Oct. 28-30 primarily online + social and networking events in NYC</title>
+    <link>https://2021.drupalcamp.nyc/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Backdrop CMS</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/backdrop-cms</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Backdrop CMS&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/3" lang="" about="https://2021.drupalcamp.nyc/user/3" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;jdleonard&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 09/14/2021 - 23:01&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-09/backdrop.svg" alt="Backdrop CMS logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Training
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;The free and Open Source CMS that helps you build websites for businesses and non-profits.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://backdropcms.org" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Wed, 15 Sep 2021 03:01:45 +0000</pubDate>
+    <dc:creator>jdleonard</dc:creator>
+    <guid isPermaLink="false">77 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Bixal</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/bixal</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bixal&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/1" lang="" about="https://2021.drupalcamp.nyc/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;admin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 08/03/2021 - 17:02&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-08/bixal.svg" alt="Bixal logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Gotham (Platinum)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Bixal is a mission-driven organization determined to improve the lives of people everywhere through human-centered strategies and transformative technologies. We deliver on this promise by partnering with leading federal agencies to conceive and create powerful data-driven customer experiences. The work we do helps our clients unite stakeholders, optimize resources and better serve citizens all over the world.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://www.bixal.com/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Tue, 03 Aug 2021 21:02:43 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">67 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Kalamuna</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/kalamuna</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kalamuna&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/3" lang="" about="https://2021.drupalcamp.nyc/user/3" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;jdleonard&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 07/30/2021 - 16:37&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2020-09/Kalamuna.svg" alt="Kalamuna logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We craft and implement solutions to help institutions solve complex challenges and tell better stories that further their missions.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://www.kalamuna.com/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Fri, 30 Jul 2021 20:37:13 +0000</pubDate>
+    <dc:creator>jdleonard</dc:creator>
+    <guid isPermaLink="false">24 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Fox Pest Control </title>
+  <link>https://2021.drupalcamp.nyc/sponsor/fox-pest-control</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fox Pest Control &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/1" lang="" about="https://2021.drupalcamp.nyc/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;admin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 07/29/2021 - 11:48&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-07/fox_pest_control.svg" alt="Fox Pest Control logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Fox Pest Control - Hudson Valley provides free inspections and same-day service for pest and termite control. If you have a pest problem, or are in need of termite control. Call your new friends at Fox and we’ll come out today!&lt;/p&gt;
+
+&lt;p&gt;Fox Pest Control. No bugs. Simply better!&lt;/p&gt;
+
+&lt;p&gt;Harrison Pest Control &amp; Exterminator | Fox Pest Control (foxpest-hudsonvalley.com)&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://foxpest-hudsonvalley.com/service-area/harrison/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Thu, 29 Jul 2021 15:48:54 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">66 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Bluehorn Digital</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/bluehorn-digital</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bluehorn Digital&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/1" lang="" about="https://2021.drupalcamp.nyc/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;admin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 07/17/2021 - 02:38&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-07/bluehorn_digital.svg" alt="Bluehorn Digital logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Bluehorn Digital delivers Drupal and e-Commerce consulting and development to meet your application needs.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://bluehorn.digital/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Sat, 17 Jul 2021 06:38:45 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">65 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Pantheon</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/pantheon</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pantheon&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/3" lang="" about="https://2021.drupalcamp.nyc/user/3" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;jdleonard&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 10/13/2020 - 22:59&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2020-10/pantheon.svg" alt="Pantheon logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Pantheon is the WebOps platform where marketers and developers drive results. Every day, web teams leverage Pantheon to create, iterate, and launch WordPress and Drupal sites. With Pantheon, site owners maximize their capacity to change website design and functionality, responding to market trends, catering to consumer behavior, and adding real value to the business's bottom line.&lt;/p&gt;
+
+&lt;p&gt;Today, companies compete on the basis of these digital experiences, and the best results emerge from an agile build-test-learn process. Whether it's publishing content, automating processes, or optimizing UX, Pantheon allows web teams to work in parallel and iterate in real time. We help companies truly engage their audience at the place it matters most — online. In fact, we're the only WebOps platform built from the ground up, specifically for agility.&lt;/p&gt;
+
+&lt;p&gt;Powering more than 300,000 sites, and serving billions of pageviews each month, Pantheon has a customer retention rate that keeps our competitors up at night.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://pantheon.io/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Wed, 14 Oct 2020 02:59:27 +0000</pubDate>
+    <dc:creator>jdleonard</dc:creator>
+    <guid isPermaLink="false">32 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Palantir.net</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/palantirnet</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Palantir.net&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/1" lang="" about="https://2021.drupalcamp.nyc/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;admin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 09/10/2020 - 16:02&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2020-09/Palantir.net_.svg" alt="Palantir.net logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Palantir.net designs and develops solutions for healthcare, higher education, and public sector clients using Drupal and other open source technologies.&lt;/p&gt;
+
+&lt;p&gt;We understand that large, transformational projects require agile approaches. Companies are not machines; they are living adaptive systems. Each deserves a partner as fluid and as dynamic as the challenges they face.&lt;/p&gt;
+
+&lt;p&gt;We can manage your entire project or just a single piece of it, from strategy and design through execution, matching our teams and services to the needs and capacities of your organization, partnering to help you achieve the ambition of your vision. No matter where you are now, we can help you get where you need to be.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://www.palantir.net" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Thu, 10 Sep 2020 20:02:20 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">21 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Esteemed</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/esteemed</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Esteemed&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/3" lang="" about="https://2021.drupalcamp.nyc/user/3" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;jdleonard&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 08/19/2020 - 18:13&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-10/esteemed.svg" alt="Esteemed logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Gotham (Platinum)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Best-in-class, Esteemed is the fastest-growing AI-powered talent management and career solutions provider delivering frictionless hiring and talent incubation for digital professionals. We help job seekers succeed in their chosen careers and employers scale their businesses with quality tools and resources to thrive within the changing global landscape.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://esteemed.io" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Wed, 19 Aug 2020 22:13:11 +0000</pubDate>
+    <dc:creator>jdleonard</dc:creator>
+    <guid isPermaLink="false">19 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Kanopi Studios</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/kanopi-studios</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kanopi Studios&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/13" lang="" about="https://2021.drupalcamp.nyc/user/13" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;vgrozdanoski&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 07/22/2020 - 19:04&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2021-07/Kanopi%20Studios%20logo.svg" alt="Kanopi Studios logo" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Industrialist (Community)
+		sponsor&lt;/h5&gt;
+
+            &lt;div class="text-formatted field field--name-field-sponsor-description field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Welcome to Kanopi Studios. We design, build and support websites for clients who want to make a positive impact.&lt;br /&gt;
+&lt;br /&gt;
+Clients choose Kanopi because of our deep expertise, our balance between custom and contributed solutions, and our thoughtful approach to being innovative while minimizing technical debt. Clients stay with Kanopi because of our holistic approach: we support your website at any step in its life-cycle, be it a new build, or making iterative improvements.&lt;br /&gt;
+&lt;br /&gt;
+No matter where you are in the lifecycle of your site, we can meet you there.&lt;/p&gt;&lt;/div&gt;
+      
+
+	&lt;a class="btn btn-color-1" href="https://kanopi.com/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Wed, 22 Jul 2020 23:04:13 +0000</pubDate>
+    <dc:creator>vgrozdanoski</dc:creator>
+    <guid isPermaLink="false">18 at https://2021.drupalcamp.nyc</guid>
+    </item>
+<item>
+  <title>Microsoft Reactor</title>
+  <link>https://2021.drupalcamp.nyc/sponsor/microsoft-reactor</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Microsoft Reactor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://2021.drupalcamp.nyc/user/3" lang="" about="https://2021.drupalcamp.nyc/user/3" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;jdleonard&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/15/2020 - 01:20&lt;/span&gt;
+
+            &lt;div class="field field--name-field-sponsor-logo field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://2021.drupalcamp.nyc/sites/default/files/2020-07/Reactor-logo-Dark.svg" alt="Microsoft Reactor" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+      
+
+	&lt;h5 class="sponsor-level"&gt;Times Square (Venue)
+		sponsor&lt;/h5&gt;
+
+
+	&lt;a class="btn btn-color-1" href="https://developer.microsoft.com/en-us/reactor/" role="button" target="_blank"&gt;Visit sponsor website&lt;/a&gt;
+
+
+</description>
+  <pubDate>Fri, 15 May 2020 05:20:27 +0000</pubDate>
+    <dc:creator>jdleonard</dc:creator>
+    <guid isPermaLink="false">14 at https://2021.drupalcamp.nyc</guid>
+    </item>
+
+  </channel>
+</rss>

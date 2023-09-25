@@ -27,7 +27,7 @@ Export the Drupal site.
 
 ```
 $ lando drush tome:export -y
-$ lando drush tome:static --uri=https://2020.drupalcamp.nyc
+$ lando drush tome:static --uri=https://2021.drupalcamp.nyc
 ```
 
 This exports the static HTML site to the `html` directory in the project root.
